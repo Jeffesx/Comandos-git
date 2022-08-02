@@ -1,0 +1,23 @@
+windowns
+
+cd navega entre as pastas
+dir lista os diretórios dentro da pasta em que estamos.
+
+mkdir cria diretorios
+
+del - deleta arquivo
+rmdir - exclui um diretório
+
+cls limpa o terminal.
+
+linux
+
+cd navega entre as pastas.
+
+ls lista os diretorios dentro da pasta em que estamos.
+ls -a mostra arquivos ocultos
+mkdir cria um diretorio
+mv - move o arquivo
+clear - limpa o terminal
+
+rm - rf exclui todas as pastas do diretorio.

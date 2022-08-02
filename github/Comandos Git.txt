@@ -1,0 +1,9 @@
+-git init - Inicia um repositório no git
+- git add - adicionar ou mover arquivos
+- git commit - m cria um commit
+-git add origin url adiciona url
+-git push origin master empurra
+-git pull origin master puxa
+-git clone url
+
+-ls -a repositorios ocultos

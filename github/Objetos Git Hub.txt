@@ -1,0 +1,7 @@
+SHA1 -  Método de criptografia.
+
+BLOBS - Bolhas - Ele contem metadados do git.
+
+TREES - Estrutura de arvores - Ela armazena os blobs e nome dos arquivos.
+
+COMMITS - Aponta para uma arvore e para outros commits ele junta todas as outra estruturas.
